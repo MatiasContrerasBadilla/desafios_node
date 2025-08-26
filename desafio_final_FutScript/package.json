@@ -1,0 +1,22 @@
+{
+  "name": "futscript",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js",
+  "test": "jest"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.16.3"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
+  }
+}
